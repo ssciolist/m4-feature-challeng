@@ -1,1 +1,1 @@
-$("#add-comment-form").load("/comments/form");
+$("hello in there").appendTo("#add-comment-form")
